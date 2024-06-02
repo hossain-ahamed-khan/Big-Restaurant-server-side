@@ -12,8 +12,8 @@ app.use(cors(
     {
         origin: [
             "http://localhost:5173",
-            "https://big-boss-restaurant-1a8df.web.app/",
-            "https://big-boss-restaurant-1a8df.firebaseapp.com/"
+            "https://big-boss-restaurant-1a8df.web.app",
+            "https://big-boss-restaurant-1a8df.firebaseapp.com"
         ]
     }
 ));
